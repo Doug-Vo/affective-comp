@@ -1,0 +1,13 @@
+# Python 3.11. tensorflow-metal is not compatible with TensorFlow 2.21 here; CPU is enough.
+tensorflow==2.21.0
+librosa==0.11.0
+soundfile==0.14.0
+scikit-learn==1.9.1
+numpy==2.4.6
+pandas==3.1.0
+matplotlib==3.11.2
+seaborn==0.13.2
+tqdm==4.70.1
+ipykernel==7.4.0
+scipy==1.17.1
+imageio-ffmpeg==0.7.0

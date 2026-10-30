@@ -1,0 +1,23 @@
+# Local env and data (do not upload)
+.venv/
+datasets/
+cache/
+models/
+test_video/
+
+# Notebook / Python junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
